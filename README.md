@@ -17,7 +17,6 @@
            - **Wake-on-LAN (WoL):** Remotely power on devices directly from the results table.
            - **Live Search:** Global filtering for IP, Hostname, Vendor, and OS.
            - **Flexible Port Discovery:** Support for specific port lists and numeric ranges.
-           - **Reporting:** Export detailed diagnostic data to CSV format.
       
        ##  Technical Stack
       
